@@ -254,5 +254,5 @@ The original dataset is available through Kaggle.
 
 ## 👨‍💻 Author
 
-**seb mungai**
+**sebmungai**
 
